@@ -14,7 +14,7 @@ Builds a nowcasting model that predicts current-quarter GDP using:
 
 ### v1: Basic Model
 - Simple ElasticNetCV on quarterly-aggregated data
-- **Problem:** Uses future data (not realistic), does not implement nowcasting logic in the process
+- **Problem:** Uses future data (not realistic), does not implement nowcasting logic in the process, 0 annotations and lacks clarity
 - Test R²: ~0.XX
 
 ### v2: Publication-Lag Aware
