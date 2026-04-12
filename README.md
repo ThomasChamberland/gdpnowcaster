@@ -28,6 +28,9 @@ Builds a nowcasting model that predicts current-quarter GDP using:
 - Will still implement nonlinear processes, might interact differently on empirical data set
 #### - Based on IMF Working Paper WP/25/252
 
-### V3, V4, V5
-- Add random forest (V3), XGboost (V4), compare to Lasso
-- Scale up, add PCA factors and have 50+ indicators (V5)
+### V4
+- Add random forest, GBM, SVR, ensemble methods
+- Scale up number of features
+
+### V5
+- PCA factors
