@@ -29,8 +29,9 @@ Builds a nowcasting model that predicts current-quarter GDP using:
 #### - Based on IMF Working Paper WP/25/252
 
 ### V4
-- Add random forest, GBM, SVR, ensemble methods
-- Scale up number of features
+- Added random forest, GBM, ensemble methods, will add more later
+- Reworked architecture
 
 ### V5
 - PCA factors
+- Scale up number of features
